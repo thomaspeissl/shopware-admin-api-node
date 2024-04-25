@@ -1,5 +1,5 @@
 {
-  "name": "shopware-admin-api",
+  "name": "@thomaspeissl/shopware-admin-api",
   "version": "0.1.0",
   "description": "Shopware API",
   "main": "src/index.js",
@@ -25,5 +25,9 @@
     "axios": "^1.6.0",
     "lodash": "^4.17.15",
     "uuid": "^8.1.0"
-  }
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
 }
