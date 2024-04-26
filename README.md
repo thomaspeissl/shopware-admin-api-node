@@ -1,6 +1,6 @@
 # Admin Node-API Client for Shopware 6
 
-See [Admin JavaScript-API Client for Shopware 6](https://github.com/thomaspeissl/js-shopware-admin-api-client) for the new JavaScript compatible version.
+See [Admin JavaScript-API Client for Shopware 6](https://github.com/thomaspeissl/js-shopware-admin-api-client) for the new JavaScript version.
 
 This code highly bases on the [Administration Code](https://github.com/shopware/platform/tree/745f1f7aaa5c47d123e04b5b5b93b81161eae19a/src/Administration/Resources/app/administration/src/core/data-new) and made NodeJs compatible.
 
